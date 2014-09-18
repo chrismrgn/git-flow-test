@@ -1,0 +1,12 @@
+<html>
+	<head>
+	</head>
+	<body>
+<<<<<<< HEAD
+		<h1>About feature b</h1>
+=======
+		<h1>About feature a</h1>
+>>>>>>> feature/feature-a
+		<p>Paragraph 1</p>
+	</body>
+</html>
